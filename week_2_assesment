@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<title>Title</title>
+		<link rel="stylesheet" type="text/css" href="stylesheet.css">
+		<script src="jquery-1.12.0.min.js"></script>
+		<script src="scriptsheet.js"></script>
+	</head>
+	<body>
+		<div>
+			<button>generate</button>
+		</div>
+	</body>
+</html>
